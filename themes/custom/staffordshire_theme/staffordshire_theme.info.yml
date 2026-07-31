@@ -1,7 +1,0 @@
-name: Staffordshire Theme
-type: theme
-description: Reusable Drupal theme for Staffordshire Digital
-core_version_requirement: ^11
-base theme: olivero
-libraries:
-- staffordshire_theme/global-styling
