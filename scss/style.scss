@@ -10,6 +10,7 @@
 
 
 // Staffordshire Theme styles
+
 body {
   font-family: "Segoe UI", Arial, sans-serif;
   font-size: 1rem;
@@ -32,6 +33,22 @@ a {
   color: #005ea5;
 }
 
-a:hover {
+a:hover,
+a:focus {
   color: #003078;
+}
+
+.navbar {
+  border-bottom: 4px solid #006838;
+}
+
+.card {
+  border-radius: 8px;
+  border: 1px solid #d8dde0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, .08);
+}
+
+.btn-primary {
+  background-color: #006838;
+  border-color: #006838;
 }
