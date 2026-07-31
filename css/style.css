@@ -12882,4 +12882,6 @@ h3 {
     border-color: #006838;
 }
 
-/*# sourceMappingURL=style.css.map */
+body {
+background: #fff7e6 !important;
+}
