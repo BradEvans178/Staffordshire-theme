@@ -12864,4 +12864,22 @@ code {
   overflow-y: auto;
 }
 
+/* Staffordshire Theme Test */
+
+body {
+    font-family: "Segoe UI", Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+h1,
+h2,
+h3 {
+    color: #003078;
+}
+
+.btn-primary {
+    background-color: #006838;
+    border-color: #006838;
+}
+
 /*# sourceMappingURL=style.css.map */
