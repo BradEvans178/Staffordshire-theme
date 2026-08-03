@@ -12903,3 +12903,12 @@ background: #fff7e6 !important;
     font-weight: 600;
     color: #003078;
 }
+
+/* Test orange header */
+.navbar,
+.navbar-dark,
+.navbar.bg-dark,
+header[role="banner"] {
+    background-color: #ff6600 !important;
+}
+
