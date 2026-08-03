@@ -1,4 +1,4 @@
-name: 'Staffordshire Theme'
+name: 'Staffordshire Theme1'
 type: theme
 description: 'Staffordshire Theme subtheme based on Bootstrap 5 theme.'
 core_version_requirement: '^10.1 || ^11.0'
